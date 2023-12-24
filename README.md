@@ -1,0 +1,1 @@
+$env:GOTMPDIR = "F:\GoProjects\GoBuilds"
